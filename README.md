@@ -1,44 +1,46 @@
-# 👋 Olá, eu sou o Valmer Mariano
+<h1 align="center">👋 Olá, eu sou o Valmer Mariano</h1>
 
-#### 🎯 IT Manager | Especialista em Infraestrutura de TI, Redes e Cibersegurança  
-#### 🖥️ Admin. de Servidores Windows/Linux (On-premises e Cloud)  
-#### 📈 Em transição estratégica para Desenvolvimento e Análise de Sistemas  
-#### 🌍 Atuação internacional: 🇵🇾 Paraguai • 🇲🇽 México • 🇯🇵 Japão • 🇧🇬 Bulgária  
-#### 📍 Capiatá - PY • Itajubá/MG - BR
+<p align="center">
+🎯 IT Manager • Especialista em Infraestrutura de TI, Redes e Cibersegurança <br>
+🖥️ Admin. de Servidores Windows/Linux (On-premises e Cloud) <br>
+📈 Em transição para Análise de Sistemas e Desenvolvimento <br>
+🌍 Atuação internacional: 🇵🇾 🇲🇽 🇯🇵 🇧🇬 <br>
+📍 Capiatá - PY • Itajubá/MG - BR
+</p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um profissional de Tecnologia da Informação com mais de **10 anos de experiência** em:
+Sou um profissional de TI com mais de **10 anos de experiência** em:
 
 - 🖥️ Infraestrutura de TI  
 - 🌐 Redes corporativas de alta disponibilidade  
 - 🔐 Segurança da informação e administração de servidores  
 
-Atuei em **projetos multinacionais** com equipes multidisciplinares na América Latina, Europa e Ásia, combinando **visão estratégica** com **execução técnica precisa**.
+Já atuei em **projetos multinacionais** com equipes distribuídas entre América Latina, Europa e Ásia, aliando visão estratégica à execução técnica.
 
-🎯 Atualmente, estou **expandindo minha atuação para Análise de Sistemas e Desenvolvimento de Software**, com foco em:
+🎯 Atualmente em transição para a área de **Análise de Sistemas e Desenvolvimento**, com foco em:
 
-- 📊 Engenharia e modelagem de sistemas  
-- 💻 Desenvolvimento de soluções sob medida  
-- 🛠️ Integração entre infraestrutura e software com foco em segurança e escalabilidade
+- 📊 Engenharia de requisitos e modelagem de sistemas  
+- 💻 Desenvolvimento de soluções seguras e escaláveis  
+- 🛠️ Integração entre infraestrutura e software
 
-💡 Acredito que minha bagagem técnica somada ao mindset de melhoria contínua me capacita a entregar **soluções robustas, eficientes e alinhadas aos objetivos de negócio**.
+💡 Minha proposta de valor: **entregar soluções robustas, eficientes e alinhadas aos objetivos do negócio**.
 
 ---
 
 ## 🚀 Habilidades Técnicas
 
-🖥️ Administração de servidores (Windows Server, Linux)  
-☁️ Ambientes híbridos e cloud (AWS)  
-🔐 Cibersegurança: FortiGate, WithSecure (F-Secure), controle de acessos  
-🌐 Redes corporativas: Mikrotik, Ubiquiti, VLANs, VPNs  
-📊 Monitoramento e visibilidade: Zabbix + Grafana  
+🖥️ Servidores Windows/Linux (on-premises e cloud)  
+☁️ AWS, ambientes híbridos  
+🔐 Cibersegurança: FortiGate, WithSecure, políticas de acesso  
+🌐 Redes: Mikrotik, Ubiquiti, VLANs, VPNs  
+📊 Monitoramento: Zabbix + Grafana  
 💾 Backup e Disaster Recovery: Veeam, ArcServe  
 🧩 Virtualização: VMware, Hyper-V  
 🛠️ Gestão de ativos e suporte técnico  
-📈 Liderança de projetos e negociação com fornecedores  
+📈 Liderança de projetos e fornecedores
 
 ### 🔧 Tecnologias
 
@@ -61,11 +63,11 @@ Atuei em **projetos multinacionais** com equipes multidisciplinares na América 
 
 ---
 
-## 📌 Certificações & Cursos Recentes
+## 📌 Certificações & Cursos
 
 - 🛡️ *Foundations of Cybersecurity* – Google (mai/2025)  
 - 🖥️ *Windows Server Administrator* (abr/2025)  
-- 🧭 *Curso de Liderança e Gestão Estratégica* (abr/2023)
+- 🧭 *Liderança e Gestão Estratégica* (abr/2023)
 
 ---
 
@@ -73,8 +75,8 @@ Atuei em **projetos multinacionais** com equipes multidisciplinares na América 
 
 📖 Atualmente estudando:
 
-- 💻 Desenvolvimento de Software – Korú Academy Brasil  
-- 🛡️ Cybersecurity Career Preparation – Google via Coursera  
+- 💻 Desenvolvimento de Software – Korú Academy  
+- 🛡️ Cybersecurity Career Preparation – Google | Coursera  
 - 🔍 Análise de Requisitos e Modelagem de Sistemas
 
 ---
@@ -83,21 +85,22 @@ Atuei em **projetos multinacionais** com equipes multidisciplinares na América 
 
 - 🇧🇷 Português (nativo)  
 - 🇪🇸 Espanhol (fluente)  
-- 🇺🇸 Inglês técnico (leitura e escrita)
+- 🇺🇸 Inglês técnico
 
 ---
 
 ## ❤️ Interesses Pessoais
 
-- 👨‍👩‍👧‍👦 Momentos com a família  
-- 📚 Leitura de livros técnicos e de desenvolvimento humano  
-- 🎧 Podcasts sobre tecnologia, gestão e inovação  
-- 🌐 Aprender novos idiomas e culturas
+- 👨‍👩‍👧‍👦 Tempo com a família  
+- 📚 Leitura técnica e desenvolvimento humano  
+- 🎧 Podcasts sobre TI, liderança e inovação  
+- 🌐 Estudo de idiomas e culturas
 
 ---
+
 ## 📊 Métricas & Atividades no GitHub
 
-> Abaixo, alguns recursos visuais que ajudam a demonstrar minha atividade e engajamento com a comunidade de desenvolvedores:
+> Abaixo, alguns recursos visuais que demonstram minha atividade e engajamento na comunidade:
 
 <div align="center">
 
@@ -119,20 +122,29 @@ Atuei em **projetos multinacionais** com equipes multidisciplinares na América 
 
 </div>
 
-
+---
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valmer-mariano)  
-[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:valmer_mariano@hotmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valmmer)
+<p align="center">
+  <a href="https://linkedin.com/in/valmer-mariano">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:valmer_mariano@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/valmmer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> *"Na tecnologia, cada solução implementada é um degrau para a excelência operacional."*  
+> _"Na tecnologia, cada solução implementada é um degrau para a excelência operacional."_  
 > — Valmer Mariano
 
-> *"Tecnologia é ponte, não fim. Meu propósito é conectar soluções com pessoas — com segurança, eficiência e visão estratégica."*
+> _"Tecnologia é ponte, não fim. Meu propósito é conectar soluções com pessoas — com segurança, eficiência e visão estratégica."_
+
 
 
 
