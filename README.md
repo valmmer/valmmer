@@ -1,45 +1,44 @@
 # 👋 Olá, eu sou o Valmer Mariano
 
 #### 🎯 IT Manager | Especialista em Infraestrutura de TI, Redes e Cibersegurança  
-#### 🖥️ Admin. de servidores Windows/Linux (on-premises e nuvem)  
-#### 💡 Expandindo conhecimentos em Análise de Sistemas e Desenvolvimento  
-#### 🌍 Experiência com equipes internacionais: 🇵🇾 Paraguai • 🇲🇽 México • 🇯🇵 Japão • 🇧🇬 Bulgária  
-#### 📍 Base: 🇵🇾 Capiatá, PY • 🇧🇷 Itajubá, MG
+#### 🖥️ Admin. de Servidores Windows/Linux (On-premises e Cloud)  
+#### 📈 Em transição estratégica para Desenvolvimento e Análise de Sistemas  
+#### 🌍 Atuação internacional: 🇵🇾 Paraguai • 🇲🇽 México • 🇯🇵 Japão • 🇧🇬 Bulgária  
+#### 📍 Capiatá - PY • Itajubá/MG - BR
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um profissional de TI com mais de 10 anos de experiência em:
+Sou um profissional de Tecnologia da Informação com mais de **10 anos de experiência** em:
 
 - 🖥️ Infraestrutura de TI  
-- 🌐 Redes corporativas  
-- 🔐 Administração de servidores e segurança da informação  
+- 🌐 Redes corporativas de alta disponibilidade  
+- 🔐 Segurança da informação e administração de servidores  
 
-Atuei em projetos multinacionais com equipes no Paraguai, México e Bulgária.  
-Hoje, estou expandindo minha atuação para Análise de Sistemas e Desenvolvimento de Soluções, unindo visão estratégica à base técnica sólida.
+Atuei em **projetos multinacionais** com equipes multidisciplinares na América Latina, Europa e Ásia, combinando **visão estratégica** com **execução técnica precisa**.
 
-🎯 Atualmente, estou **ampliando meu escopo técnico e estratégico** com foco em:
+🎯 Atualmente, estou **expandindo minha atuação para Análise de Sistemas e Desenvolvimento de Software**, com foco em:
 
-- 📊 **Análise de Sistemas**  
-- 💻 **Desenvolvimento de Software**  
-- 🛠️ **Boas práticas de engenharia de soluções**
+- 📊 Engenharia e modelagem de sistemas  
+- 💻 Desenvolvimento de soluções sob medida  
+- 🛠️ Integração entre infraestrutura e software com foco em segurança e escalabilidade
 
-💡 Acredito que unir minha **base sólida em infraestrutura** com **novas competências em desenvolvimento** me permite entregar soluções mais **completas**, **seguras** e **alinhadas aos objetivos de negócio**.
-
+💡 Acredito que minha bagagem técnica somada ao mindset de melhoria contínua me capacita a entregar **soluções robustas, eficientes e alinhadas aos objetivos de negócio**.
 
 ---
 
 ## 🚀 Habilidades Técnicas
 
-🖥️ Administração de servidores Windows/Linux (on-premises e AWS)  
+🖥️ Administração de servidores (Windows Server, Linux)  
+☁️ Ambientes híbridos e cloud (AWS)  
 🔐 Cibersegurança: FortiGate, WithSecure (F-Secure), controle de acessos  
 🌐 Redes corporativas: Mikrotik, Ubiquiti, VLANs, VPNs  
-📊 Monitoramento: Zabbix + Grafana  
-💾 Backup e recuperação: Veeam, ArcServe  
-🧩 Virtualização e infraestrutura: VMware, Hyper-V  
-🛠️ Suporte técnico e gestão de ativos  
-📈 Liderança de projetos e gestão de fornecedores  
+📊 Monitoramento e visibilidade: Zabbix + Grafana  
+💾 Backup e Disaster Recovery: Veeam, ArcServe  
+🧩 Virtualização: VMware, Hyper-V  
+🛠️ Gestão de ativos e suporte técnico  
+📈 Liderança de projetos e negociação com fornecedores  
 
 ### 🔧 Tecnologias
 
@@ -55,7 +54,7 @@ Hoje, estou expandindo minha atuação para Análise de Sistemas e Desenvolvimen
 
 ---
 
-## 📚 Formação
+## 📚 Formação Acadêmica
 
 🎓 **Licenciatura em Análise de Sistemas** – UTIC (2020–2025)  
 🎓 **Técnico em Redes de Computadores** – SENAC Minas (2012–2013)
@@ -64,21 +63,19 @@ Hoje, estou expandindo minha atuação para Análise de Sistemas e Desenvolvimen
 
 ## 📌 Certificações & Cursos Recentes
 
-🛡️ *Foundations of Cybersecurity* (mai/2025)  
-🖥️ *Windows Server Administrator* (abr/2025)  
-🧭 *Curso de Liderança* (abr/2023)
+- 🛡️ *Foundations of Cybersecurity* – Google (mai/2025)  
+- 🖥️ *Windows Server Administrator* (abr/2025)  
+- 🧭 *Curso de Liderança e Gestão Estratégica* (abr/2023)
 
 ---
 
-## 🌱 Em constante evolução
+## 🌱 Em Constante Evolução
 
-Atualmente estudando:
+📖 Atualmente estudando:
 
-- Atualmente estudando:
-- 💻 Desenvolvimento de Software na Korú Academy Brasil
-- 🛡️ Cybersecurity Career Preparation pela Google via Coursera
-- 🔍 Análise de requisitos e modelagem de sistema
-
+- 💻 Desenvolvimento de Software – Korú Academy Brasil  
+- 🛡️ Cybersecurity Career Preparation – Google via Coursera  
+- 🔍 Análise de Requisitos e Modelagem de Sistemas
 
 ---
 
@@ -86,28 +83,48 @@ Atualmente estudando:
 
 - 🇧🇷 Português (nativo)  
 - 🇪🇸 Espanhol (fluente)  
-- 🇺🇸 Inglês técnico  
+- 🇺🇸 Inglês técnico (leitura e escrita)
 
 ---
 
-## ❤️ Interesses
+## ❤️ Interesses Pessoais
 
-- 👨‍👩‍👧‍👦 Tempo de qualidade com a família  
-- 📚 Leitura de livros técnicos e de desenvolvimento pessoal  
-- 🎧 Podcasts sobre tecnologia e inovação  
-- 🌐 Aprendizado contínuo e novos idiomas  
+- 👨‍👩‍👧‍👦 Momentos com a família  
+- 📚 Leitura de livros técnicos e de desenvolvimento humano  
+- 🎧 Podcasts sobre tecnologia, gestão e inovação  
+- 🌐 Aprender novos idiomas e culturas
 
 ---
 
-## 📫 Contato
+## 📊 Métricas & Atividades no GitHub
+
+> Abaixo, alguns recursos visuais que ajudam a demonstrar minha atividade e engajamento com a comunidade de desenvolvedores:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valmmer&show_icons=true&theme=default&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valmmer&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valmmer&theme=default)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=valmmer&theme=github-compact)
+
+> Outros recursos que podem ser explorados:
+- [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+- [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)  
+- [github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)  
+- [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valmer-mariano)  
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:valmer_mariano@hotmail.com)  
-🧑‍💻 [GitHub](https://github.com/valmmer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valmmer)
 
 ---
 
 > *"Na tecnologia, cada solução implementada é um degrau para a excelência operacional."*  
 > — Valmer Mariano
 
-> “Tecnologia é ponte, não fim. Meu propósito é conectar soluções com pessoas, com segurança, eficiência e visão estratégica.”
+> *"Tecnologia é ponte, não fim. Meu propósito é conectar soluções com pessoas — com segurança, eficiência e visão estratégica."*
+
+
+
