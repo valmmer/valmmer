@@ -95,23 +95,31 @@ Atuei em **projetos multinacionais** com equipes multidisciplinares na América 
 - 🌐 Aprender novos idiomas e culturas
 
 ---
-
 ## 📊 Métricas & Atividades no GitHub
 
 > Abaixo, alguns recursos visuais que ajudam a demonstrar minha atividade e engajamento com a comunidade de desenvolvedores:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valmmer&show_icons=true&theme=default&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valmmer&layout=compact&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valmmer&theme=default)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=valmmer&theme=github-compact)
+<div align="center">
 
-> Outros recursos que podem ser explorados:
-- [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-- [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)  
-- [github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)  
-- [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmmer&layout=compact&theme=default" alt="Top Langs" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=valmmer&show_icons=true&theme=default&hide=stars" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=valmmer&theme=default" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
----
+</div>
+
+
 
 ## 📫 Vamos nos conectar?
 
