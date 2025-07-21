@@ -1,10 +1,9 @@
-<h1 align="center">👋 Olá, eu sou o Valmer Mariano</h1>
+<h1 align="center">🚀 Valmer Mariano</h1>
 
 <p align="center">
-🎯 IT Manager • Especialista em Infraestrutura de TI, Redes e Cibersegurança <br>
-🖥️ Admin. de Servidores Windows/Linux (On-premises e Cloud) <br>
-📈 Em transição para Análise de Sistemas e Desenvolvimento <br>
-🌍 Atuação internacional: 🇵🇾 🇲🇽 🇯🇵 🇧🇬 <br>
+🎯 IT Manager | Especialista em Infraestrutura, Redes e Cibersegurança<br>
+🛡️ +10 anos garantindo ambientes de TI robustos e seguros<br>
+🌍 Atuação internacional: 🇵🇾 🇲🇽 🇯🇵 🇧🇬<br>
 📍 Capiatá - PY • Itajubá/MG - BR
 </p>
 
@@ -12,37 +11,42 @@
 
 ## 🧠 Sobre mim
 
-Sou um profissional de TI com mais de **10 anos de experiência** em:
+Sou um profissional de tecnologia com mais de uma década de experiência entregando **soluções estratégicas, seguras e escaláveis** em ambientes corporativos exigentes.
 
-- 🖥️ Infraestrutura de TI  
-- 🌐 Redes corporativas de alta disponibilidade  
-- 🔐 Segurança da informação e administração de servidores  
+💼 Minha atuação vai desde o **planejamento e implementação de infraestrutura crítica** até a **gestão de projetos multinacionais**, com forte foco em:
 
-Já atuei em **projetos multinacionais** com equipes distribuídas entre América Latina, Europa e Ásia, aliando visão estratégica à execução técnica.
+- 🖥️ Admin. de Servidores Windows/Linux (on-premises e cloud)  
+- 🔐 Segurança da Informação e Redes de Alta Disponibilidade  
+- 📊 Monitoramento, automação e continuidade de negócios  
+- 🤝 Liderança técnica e relacionamento com fornecedores  
 
-🎯 Atualmente em transição para a área de **Análise de Sistemas e Desenvolvimento**, com foco em:
+🌐 Trabalho com equipes globais, aliando **inteligência técnica à visão de negócio**.
 
-- 📊 Engenharia de requisitos e modelagem de sistemas  
-- 💻 Desenvolvimento de soluções seguras e escaláveis  
-- 🛠️ Integração entre infraestrutura e software
-
-💡 Minha proposta de valor: **entregar soluções robustas, eficientes e alinhadas aos objetivos do negócio**.
+🧩 Minha missão: **garantir a performance, a segurança e a inovação nos ambientes de TI** onde atuo.
 
 ---
 
-## 🚀 Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 
-🖥️ Servidores Windows/Linux (on-premises e cloud)  
-☁️ AWS, ambientes híbridos  
-🔐 Cibersegurança: FortiGate, WithSecure, políticas de acesso  
-🌐 Redes: Mikrotik, Ubiquiti, VLANs, VPNs  
-📊 Monitoramento: Zabbix + Grafana  
-💾 Backup e Disaster Recovery: Veeam, ArcServe  
-🧩 Virtualização: VMware, Hyper-V  
-🛠️ Gestão de ativos e suporte técnico  
-📈 Liderança de projetos e fornecedores
+### 🔒 Infraestrutura e Segurança
 
-### 🔧 Tecnologias
+- Admin. de Servidores Windows/Linux (On-Premises e Cloud)
+- Cloud: AWS • Ambientes Híbridos
+- Segurança: FortiGate, WithSecure, políticas de acesso e firewall
+- Redes: Mikrotik, Ubiquiti, VLANs, VPNs
+- Backup & DR: Veeam, ArcServe
+- Monitoramento: Zabbix + Grafana
+- Virtualização: VMware, Hyper-V
+
+### 📈 Gestão & Operações
+
+- Gestão de ativos e suporte técnico  
+- Liderança de times e fornecedores  
+- Implantação de políticas de segurança e compliance  
+- Criação de ambientes de alta disponibilidade  
+- Integração entre infraestrutura e software  
+
+### 🚀 Tecnologias
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -56,51 +60,47 @@ Já atuei em **projetos multinacionais** com equipes distribuídas entre Améric
 
 ---
 
-## 📚 Formação Acadêmica
+## 🎓 Formação Acadêmica
 
-🎓 **Licenciatura em Análise de Sistemas** – UTIC (2020–2025)  
-🎓 **Técnico em Redes de Computadores** – SENAC Minas (2012–2013)
+- 🎓 **Licenciatura em Análise de Sistemas** – UTIC (2020–2025)  
+- 🎓 **Técnico em Redes de Computadores** – SENAC Minas (2012–2013)
 
 ---
 
-## 📌 Certificações & Cursos
+## 🏅 Certificações
 
 - 🛡️ *Foundations of Cybersecurity* – Google (mai/2025)  
-- 🖥️ *Windows Server Administrator* (abr/2025)  
-- 🧭 *Liderança e Gestão Estratégica* (abr/2023)
+- 🖥️ *Windows Server Administrator* – (abr/2025)  
+- 🧭 *Liderança e Gestão Estratégica* – (abr/2023)
 
 ---
 
-## 🌱 Em Constante Evolução
-
-📖 Atualmente estudando:
+## 📘 Em Desenvolvimento Contínuo
 
 - 💻 Desenvolvimento de Software – Korú Academy  
-- 🛡️ Cybersecurity Career Preparation – Google | Coursera  
-- 🔍 Análise de Requisitos e Modelagem de Sistemas
+- 🛡️ Carreira em Cibersegurança – Google | Coursera  
+- 📐 Análise de Requisitos e Modelagem de Sistemas
 
 ---
 
-## 💬 Idiomas
+## 🌐 Idiomas
 
 - 🇧🇷 Português (nativo)  
 - 🇪🇸 Espanhol (fluente)  
-- 🇺🇸 Inglês técnico
+- 🇺🇸 Inglês técnico  
 
 ---
 
 ## ❤️ Interesses Pessoais
 
-- 👨‍👩‍👧‍👦 Tempo com a família  
-- 📚 Leitura técnica e desenvolvimento humano  
-- 🎧 Podcasts sobre TI, liderança e inovação  
-- 🌐 Estudo de idiomas e culturas
+- 👨‍👩‍👧‍👦 Família em primeiro lugar  
+- 📚 Leitura de tecnologia, liderança e desenvolvimento pessoal  
+- 🎧 Podcasts sobre TI e inovação  
+- 🌍 Curiosidade por culturas e idiomas  
 
 ---
 
-## 📊 Métricas & Atividades no GitHub
-
-> Abaixo, alguns recursos visuais que demonstram minha atividade e engajamento na comunidade:
+## 📊 Atividade no GitHub
 
 <div align="center">
 
@@ -140,11 +140,5 @@ Já atuei em **projetos multinacionais** com equipes distribuídas entre Améric
 
 ---
 
-> _"Na tecnologia, cada solução implementada é um degrau para a excelência operacional."_  
+> _"Tecnologia é ponte, não fim. Meu propósito é conectar soluções com pessoas — com segurança, eficiência e visão estratégica."_  
 > — Valmer Mariano
-
-> _"Tecnologia é ponte, não fim. Meu propósito é conectar soluções com pessoas — com segurança, eficiência e visão estratégica."_
-
-
-
-
